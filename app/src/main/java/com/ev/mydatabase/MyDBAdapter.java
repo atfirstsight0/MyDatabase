@@ -13,6 +13,8 @@ import java.util.ArrayList;
  * Created by Vidar on 1/11/17.
  */
 
+
+
 public class MyDBAdapter {
 
     Context context;

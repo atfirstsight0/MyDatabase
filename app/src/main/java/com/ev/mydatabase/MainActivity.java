@@ -20,6 +20,9 @@ import android.widget.Spinner;
 
 import java.util.ArrayList;
 
+// Objective: create a SQLite database to store students's data.
+
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, View.OnClickListener {
 
